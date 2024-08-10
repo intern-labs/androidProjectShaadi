@@ -1,8 +1,4 @@
-# App starter for Android to get started with development of any app from scratch
-
- This project aims to be the starter kit for developers to start their project work immediately
- without spending time on initial setup like adding library dependencies, base framework
- of dependency injection, modular clean architecture, generic base classes etc. 
+# androidProjectShaadi
 
 # Architecture
 The code follows Clean Architecture with MVVM and following has been added
@@ -21,4 +17,3 @@ Room
 Timber logger
 Firebase analytics
 Chucker
-
